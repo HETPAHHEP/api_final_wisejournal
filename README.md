@@ -16,7 +16,7 @@ API для социальной сети WiseJournal, где пользоват�
 * [Python 3.11](https://www.python.org)
 * [Django 4.2](https://www.djangoproject.com)
 * [DRF 3.14](https://www.django-rest-framework.org)
-* JWT + Djoser
+* JWT
 
 ## Запуск проекта в dev-режиме
 
